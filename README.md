@@ -1,9 +1,9 @@
-# 🚀 DSA Journey in C++
+# 🚀 DSA Journey in JAVA
 
 This repository contains my Data Structures & Algorithms practice,
 organized topic-wise with clean and optimized solutions.
 
-**Language:** C++
+**Language:** JAVA
 **Goal:** Strong DSA + interview preparation by 2027  
 
 ## Topics
